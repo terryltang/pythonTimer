@@ -1,6 +1,8 @@
 # pythonTimer
 Python Timer. Equivalent of JavaScript setInterval/setTimeout function.
 
+- Require Python standard library: threading 
+
 - Call a function after a specified number of seconds:
 
     e.g.:
